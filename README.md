@@ -2,16 +2,16 @@
 
 **`Aspiring Developer & Video Editor (she/her)`**
 
-I'm a student currently privately working on learning Discord.py & studying Web Development. I also work on content creation on the YouTube channel "[ZellieOwO][https://youtube.com/c/ZellieOwO]" and am an active developer of the Discord bot Gilbot.
+I'm a student currently privately working on learning Discord.py & studying Web Development. I also work on content creation on the YouTube channel "[ZellieOwO](https://youtube.com/c/ZellieOwO)" and am an active developer of the Discord bot Gilbot.
 
 Contact me on discord @MommyZellie#1061
-Contact me at my email @ zelliesbuisnessemail@gmail.com
+Contact me at my email @ [zelliesbuisnessemail@gmail.com](https://gmail.com/)
 
 # Commissions 🎥
 
-Commission me for videos [here][https://www.fiverr.com/zellieowo/edit-a-video-for-you]
+Commission me for videos [here](https://www.fiverr.com/zellieowo/edit-a-video-for-you)
 
----
+
 # Languages & Skills 🛠
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -21,4 +21,4 @@ Commission me for videos [here][https://www.fiverr.com/zellieowo/edit-a-video-fo
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
----
+#
