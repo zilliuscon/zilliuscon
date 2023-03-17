@@ -4,7 +4,7 @@
 
 I'm a student currently privately working on learning Discord.py & studying Web Development. I also work on content creation on the YouTube channel "[ZellieOwO](https://youtube.com/c/ZellieOwO)" and am an active developer of the Discord bot Gilbot.
 
-Contact me on discord @ MommyZellie#1061
+Contact me on discord @ Zellie ❤#1061
 
 Contact me at my email @ [zelliesbuisnessemail@gmail.com](https://gmail.com/)
 
