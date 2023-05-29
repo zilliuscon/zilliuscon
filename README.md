@@ -1,6 +1,6 @@
 # ✨ZellieOwO✨
 
-**`Aspiring Developer & Video Editor (she/her)`**
+**`Aspiring Developer & Video Editor (they/them)`**
 
 I'm a student currently privately working on learning Discord.py & studying Web Development. I also work on content creation on the YouTube channel "[ZellieOwO](https://youtube.com/c/ZellieOwO)" and am an active developer of the Discord bot Gilbot.
 
