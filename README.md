@@ -8,9 +8,11 @@ Contact me on discord @ zellieowo
 
 Contact me at my email @ [zelliesbuisnessemail@gmail.com](https://gmail.com/)
 
-# Commissions 🎥
+# Support 🎥
 
 Commission me for videos [here](https://www.fiverr.com/zellieowo/edit-a-video-for-you)
+
+
 
 
 # Languages & Skills 🛠
