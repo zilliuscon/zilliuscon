@@ -33,5 +33,5 @@ Commission me for videos [here](https://www.fiverr.com/zellieowo/edit-a-video-fo
 
 
 [<img align="left" alt="visit me at Ko-fi" width="120px" style="padding-right:10px;" src="https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_dark.png"/>](
-ko-fi.com/zelliemediagroup
+https://ko-fi.com/zelliemediagroup
 )
