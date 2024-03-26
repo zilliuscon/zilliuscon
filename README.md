@@ -1,18 +1,17 @@
-# ✨ZellieOwO✨
+## ✨ZellieOwO✨
+### **`(they/them)`**
 
-**`Aspiring Developer & Video Editor (they/them)`**
+**`Aspiring Developer & Professional Video Editor`**
 
-I'm a student currently privately working on learning Discord.py & studying Web Development. I also work on content creation on the YouTube channel "[ZellieOwO](https://youtube.com/c/ZellieOwO)" and am an active developer of the Discord bot Gilbot.
+Hello, my name's Zel. I own the youtube channel "[ZellieOwO](https://youtube.com/channel/ZellieOwO/)" & upload active devlogs on "[ZelDev](https://www.youtube.com/channel/@ZelDeveloper)". All programs I make are streamed live on twitch, unless it's risky for stuff like leaking private information. Currently working on a discord bot to automatically moderate my discord server so i can release a server to the public. 
 
-Contact me on discord @ zellieowo
+
+please check Ko-fi updates/ZelDev community channel for monthly updates on what has been worked on. 
+
+
+Contact me on discord @ `zellieowo`
 
 Contact me at my email @ [zelliesbuisnessemail@gmail.com](https://gmail.com/)
-
-# Support 🎥
-
-Commission me for videos [here](https://www.fiverr.com/zellieowo/edit-a-video-for-you)
-
-
 
 
 # Languages & Skills 🛠
