@@ -11,7 +11,7 @@ please check Ko-fi updates/ZelDev community channel for monthly updates on what 
 
 Contact me on discord @ `zellieowo`
 
-Contact me at my email @ [zelliesbuisnessemail@gmail.com](https://gmail.com/)
+Contact me at my email @ [zelliesbuisnessemail@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrLPMnDQbRXvphLmDXGkVNkhTqVgKLKZNFRQVFFLMgDkqHtqzrXXxCSgqSTzjpKJMhczg)
 
 
 # Languages & Skills 🛠
