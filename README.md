@@ -3,7 +3,7 @@
 
 **`Aspiring Developer & Professional Video Editor`**
 
-Hello, my name's Zel. I own the youtube channel "[ZellieOwO](https://youtube.com/channel/ZellieOwO/)" & upload active devlogs on "[ZelDev](https://www.youtube.com/channel/@ZelDeveloper)". All programs I make are streamed live on twitch, unless it's risky for stuff like leaking private information.
+Hello, my name's Zel. I own the youtube channel "[ZellieOwO](https://www.youtube.com/@ZellieOwO)" & upload active devlogs on "[ZelDev](https://www.youtube.com/@ZelDeveloper)". All programs I make are streamed live on twitch, unless it's risky for stuff like leaking private information.
 
 
 please check Ko-fi updates/ZelDev community channel for monthly updates on what has been worked on. 
