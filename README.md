@@ -24,7 +24,7 @@ Contact me at my email @ [zelliesbuisnessemail@gmail.com](https://mail.google.co
 
 # Support me:
 
-[<img align="left" alt="Visit me at Itch" width="120px" style="padding-right:10px;" src="https://camo.githubusercontent.com/851d6b854442b136044e7b5b29bcdf8a01ee2b8408b4b6e47f0783cf147f8a42/687474703a2f2f6a657373656d696c6c61722e6769746875622e696f2f617661696c61626c652d6f6e2d69746368696f2d62616467652f62616467652d62772e706e67](https://static.itch.io/images/badge.svg)"/>](https://zilliuscon.itch.io/)
+[<img align="left" alt="Visit me at Itch" width="120px" style="padding-right:10px;" src="https://static.itch.io/images/badge-color.svg"/>](https://zilliuscon.itch.io/)
 
 [<img align="left" alt="visit me at Ko-fi" width="120px" style="padding-right:10px;" src="https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_dark.png"/>](
 https://ko-fi.com/zelliemediagroup
