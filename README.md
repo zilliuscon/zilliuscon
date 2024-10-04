@@ -22,7 +22,7 @@ Contact me at my email @ [zelliesbuisnessemail@gmail.com](https://mail.google.co
 <img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> 
 
-# Support me:
+# All Platforms:
 
 [<img align="left" alt="Visit me at Itch" width="70px" style="padding-right:10px;" src="https://static.itch.io/images/app-icon.svg"/>](https://zilliuscon.itch.io/)
 
