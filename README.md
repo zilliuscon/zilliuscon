@@ -1,5 +1,5 @@
 ## ✨ZellieOwO✨
-### **`(they/them)`**
+### **`(any/all)`**
 
 **`Aspiring Developer & Professional Video Editor`**
 
